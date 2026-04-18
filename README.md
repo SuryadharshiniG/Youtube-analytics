@@ -1,6 +1,6 @@
-# 📊 YouTube Channel Data Analytics using Python & MongoDB
+# YouTube Channel Data Analytics using Python & MongoDB
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing YouTube channel performance using real-time data.  
 We extract channel statistics using the YouTube Data API, store the data in MongoDB Atlas, and perform analysis using Python.
 
@@ -8,7 +8,7 @@ The goal is to compare different YouTube channels and understand factors influen
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Extract real-time YouTube channel data
 - Store data in MongoDB Atlas
 - Perform data cleaning and transformation
@@ -21,7 +21,7 @@ The goal is to compare different YouTube channels and understand factors influen
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - Python
 - YouTube Data API v3
 - MongoDB Atlas (NoSQL Database)
@@ -31,7 +31,7 @@ The goal is to compare different YouTube channels and understand factors influen
 
 ---
 
-## 📂 Dataset
+## Dataset
 The dataset consists of selected YouTube channels:
 - Saskatchewan Polytechnic
 - IRCC (Immigration, Refugees and Citizenship Canada)
@@ -47,7 +47,7 @@ Data fields:
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. **Data Extraction**
    - Used YouTube API to fetch channel data
@@ -71,7 +71,7 @@ Data fields:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - Cristiano Ronaldo has the highest subscribers due to strong personal branding
 - Google has the highest total views due to large content volume
 - RCB has the highest video uploads, indicating consistent posting
@@ -80,7 +80,7 @@ Data fields:
 
 ---
 
-## ⚠️ Challenges Faced
+## Challenges Faced
 - API key generation and authentication
 - Extracting correct channel IDs
 - MongoDB connection and network access configuration
@@ -89,7 +89,7 @@ Data fields:
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 - Include more YouTube channels
 - Perform sentiment analysis on comments
 - Use advanced visualization tools (Seaborn / Plotly)
@@ -97,13 +97,13 @@ Data fields:
 
 ---
 
-## 👨‍💻 Author
+## Author
 - Group 4 Project
 - Course: Data Analytics / COMP 603
 
 ---
 
-## 📎 Conclusion
+## Conclusion
 This project demonstrates how Python and MongoDB can be used to build a complete data analytics pipeline.  
 It highlights the importance of data-driven decision-making in understanding digital platform performance.
 
